@@ -1,6 +1,6 @@
 import streamlit as st
 
-from components.home.summoner import search_summoner_bar
+from components.home.search_bar import search_summoner_bar
 
 st.set_page_config(
     page_title="Lol Stats",
